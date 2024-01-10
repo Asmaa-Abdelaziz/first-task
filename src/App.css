@@ -1,0 +1,35 @@
+.app {
+  padding: 0 1rem;
+  margin: 1rem auto;
+  background-color: #607274;
+
+  border: 1px solid #000;
+}
+
+.app h2 {
+  color: #fff;
+}
+.app p {
+  padding-left: 1rem;
+}
+
+.components {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.components .component {
+  margin: 2rem;
+  padding: 0 1rem;
+  background-color: #ffe5e5;
+  border: 1px solid #000;
+}
+
+.third {
+  margin: 1rem;
+  padding: 0 1rem;
+  background-color: #f6f7c4;
+  border: 1px solid #000;
+}
